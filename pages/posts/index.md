@@ -7,7 +7,7 @@ date: 2021-03-18
 # Posts
 # The Case for the Modern Polymath in IT
 
-Here I'll rant about why the idea of knowing a bunch of subjects is good.
+Here I'll rant about why the idea of knowing a bunch of subjects is good. Simply as a disclaimer, these opinions do not represent any entity other than my own.
 
 Wikipedia defines **[polymath](https://en.wikipedia.org/wiki/Polymath?oldformat=true)** as "an individual whose knowledge spans a substantial number of subjects, known to draw on complex bodies of knowledge to solve specific problems".
 
